@@ -1,0 +1,8 @@
+.tabulator-row {
+    transition: background-color 0.3s ease;
+}
+
+.tabulator-row:hover {
+    background-color: rgb(39, 67, 71) !important;
+    color:white
+}
